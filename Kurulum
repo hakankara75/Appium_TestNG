@@ -1,0 +1,10 @@
+1- pom.xml'e
+java client
+testNG
+extentreport
+apache poi
+dependencies eklendi.
+
+2- test class altına resources ekledik. apk koymak için
+3- test/java altında proje açılır.
+4-proje altına pages, tests,utilities açılır
